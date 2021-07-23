@@ -241,17 +241,17 @@
 	.product {
 		grid-template-columns: 70px 30px 1fr;
 		grid-template-areas:
-			"logo . title"
-			"logo . tags"
-			"priceTitle priceTitle price"
-			"creditTitle creditTitle credit"
-			"ratingtitle ratingtitle ratingtitle"
-			"hr hr hr"
-			"description description description"
-			"feature feature feature"
-			"advblock advblock advblock"
-			"hr2 hr2 hr2"
-			"actions actions actions";
+        "logo . title"
+        "logo . tags"
+        "priceTitle priceTitle price"
+        "creditTitle creditTitle credit"
+        "rating ratingTitle ratingTitle"
+        "hr hr hr"
+        "description description description"
+        "feature feature feature"
+        "advblock advblock advblock"
+        "hr2 hr2 hr2"
+        "actions actions actions";
 	}
 
 	.price {
